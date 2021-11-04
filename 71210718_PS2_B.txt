@@ -1,0 +1,60 @@
+Diketahui
+
+kapasitas gelas A = 1000L
+
+kapasitas gelas B = 700L
+
+kapasitas gelas C = 300L
+
+kapasitas gelas D = 100L
+
+Gelas dibuat terurut dari atas kebawah = A-B-C-D
+
+Dibuat lubang ditengah tepi masing masing gelas
+
+Diberi sedotan di lubang tersebut untuk mengalirkan air dari gelas A ke gelas D secara terurut
+
+( dari dua pernyataan sebelumnya, disimpulkan maka akan ada pengurangan air jika dimasukkan sejumlah air yang melebihi setengah dari kapasitas gelas tersebut)
+
+Jumlah air yang dituangkan di gelas A = 1000L
+
+pertanyaan = Jumlah Air pada gelas D jika gelas A dituangkan air sebanyak 1000L
+
+Jawab =
+
+gelas A dituangkan air sebanyak 1000L maka
+
+jumlah air yang mengalir dari gelas A ke gelas B sebanyak 500 L 
+
+penjelasan :
+
+ 1000:2 = 500 ( setengah dari kapasitas)
+
+ = 1000L - 500L = 500L ( jumlah air yang melebihi setengah dari kapasitas )
+ = 500L ke gelas B
+
+gelas B dialiri air sebanyak 500 maka
+
+jumlah air yang mengalir dari gelas B ke gelas C sebanyak 150
+
+penjelasan :
+
+ 700 : 2 = 350 ( setengah dari kapasitas gelas B )
+
+ 500 - 350 = 150 ( jumlah air yang  melebihi setengah dari kapasitas ) 
+ = 150 ke gelas C
+
+gelas C dialiri air sebanyak 150 maka
+
+jumlah air yang mengalir dari gelas C ke gelas D adalah 0
+
+penjelasan :
+
+300 : 2 = 150 ( setengah dari kapasitas gelas)
+
+150 - 150 = 0 ( jumlah air yang melebihi setengah dari kapasitas )
+
+ = 0 ke gelas D
+
+Maka jawabannya adalah 0 dikarenakan jumlah air yang masuk pada gelas C adalah sama dengan setengah jumlah dari kapasitas gelas C.
+ 
